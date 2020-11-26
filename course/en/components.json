@@ -1,0 +1,1409 @@
+[
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "the same modelling issues in 2013 are relevant today",
+    "displayTitle": "the same modelling issues in 2013 are relevant today",
+    "body": "<p>click the boxes below to find out more</p><p>&nbsp;</p>",
+    "_id": "5fa544b93b0a63208a7b1159",
+    "_parentId": "5fa544b03b0a63208a7b1158",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "flipcard",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>learning point 1</p>",
+    "_id": "5fb3aebbbf638204fc40009e",
+    "_parentId": "5fb3ae85bf638204fc40009d",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_flipType": "allFlip",
+    "_flipTime": 400,
+    "_items": [
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "press enter for learning point 1",
+          "src": "course/en/assets/a163476bdb5a1e2ee03cf3cf64c94f9635358a92.jpg"
+        },
+        "backTitle": "",
+        "backBody": "<p>the history of modelling in government shows that the principles of the macpherson review and AQUA book are just as relevant as ever.&nbsp;</p>"
+      }
+    ]
+  },
+  {
+    "_component": "flipcard",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>learning point 2</p>",
+    "_id": "5fb3e6a8bf638204fc4000b1",
+    "_parentId": "5fb3ae85bf638204fc40009d",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_flipType": "allFlip",
+    "_flipTime": 400,
+    "_items": [
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "press enter for learning point 2",
+          "src": "course/en/assets/cd0e9537bd0ca0b15045c66d97edd9c7c3b2ee0a.jpg"
+        },
+        "backTitle": "",
+        "backBody": "<p>When not well implemented, the results can be very to costly for the reputation of government</p>"
+      }
+    ]
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Why quality is important",
+    "displayTitle": "Why quality is important",
+    "body": "",
+    "_id": "5fb7b5a7bf638204fc400226",
+    "_parentId": "5fb7b5a7bf638204fc400225",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Analysis and the use of evidence informs every important decision we make as civil servants",
+        "body": "<p>It also underpins the civil service values</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/3153326131cc08afd91e679613b60d8b7cf15dcc.png",
+          "attribution": "A"
+        },
+        "_classes": ""
+      },
+      {
+        "title": "If modelling is not fit-for-purpose then the damage is manyfold ",
+        "body": "<p>it can lead to:</p><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/77297c301fbf408a0d9c34d2811c1a97a2911fe7.jpg",
+          "attribution": "legal challenge  /  reputational damage  /  delays  /  escalating project cost"
+        },
+        "_classes": ""
+      },
+      {
+        "title": "quality assurance control is therefore not just about decision making.",
+        "body": "<p>It is also a&nbsp;key aspect of the effective risk management</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/927df1e2e86fce304b55f33ed875a3c8a22b4391.jpg",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "flipcard",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The importance of modelling quality in 2013...",
+    "displayTitle": "The importance of modelling quality in 2013...",
+    "body": "",
+    "_id": "5fb7bbd0bf638204fc400232",
+    "_parentId": "5fa5432a3b0a63208a7b1150",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_flipType": "allFlip",
+    "_flipTime": 400,
+    "_items": [
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "",
+          "src": "course/en/assets/61e0ed34eeae016e41d21d6d0f999be09c285c25.JPG"
+        },
+        "backTitle": "",
+        "backBody": "<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\"><tbody><tr><td>Description</td><td>estimated cost</td></tr><tr><td>Compensation for costs incurred by bidders on the franchise competition</td><td>£40m</td></tr><tr><td>Compensation for costs incurred by First Group in preparing to take over the franchise</td><td>£5m</td></tr><tr><td>Staff and advisers costs</td><td>£2m</td></tr><tr><td>Professional fees related to preparing for the legal challenge</td><td>£3m</td></tr><tr><td>Cost of external advisers for reviews commissioned following the cancellation of the competition</td><td>£4m</td></tr><tr><td>Costs of contingency plan preparations for Directly Operated Railways to take over the franchise</td><td>£1m</td></tr></tbody></table><p>&nbsp;</p>"
+      }
+    ]
+  },
+  {
+    "_component": "hotgraphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fb7dfe9bf638204fc400243",
+    "_parentId": "5fb7df78bf638204fc400241",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_graphic": {
+      "src": "course/en/assets/696b9478f4c766f74fb6030bceca8d2fadf19bdf.JPG",
+      "alt": "",
+      "attribution": "source: National Audit Office. Recent lessons show weaknesses across a number of modelling programmes. The solutions are relatively simple which you can see in section two (demonstrate)"
+    },
+    "mobileBody": "",
+    "mobileInstruction": "",
+    "_hidePagination": false,
+    "_canCycleThroughPagination": false,
+    "_isNarrativeOnMobile": true,
+    "_useNumberedPins": true,
+    "_useGraphicsAsPins": false,
+    "_isRound": false,
+    "_items": [
+      {
+        "title": "lesson of 2016",
+        "_ariaLevel": -1,
+        "body": "<p>In the early to mid 2010’s the government used a ‘levy control framework’ to estimate and monitor forecast costs from three levied funded renewable energy schemes&nbsp;</p><p>Lessons:</p><p>1) Having a governance structure is good. But for it to work it needs to be used</p><p>2) It is important to keeping a close eye on model assumptions, particularly those which have the potential to materially change the models output</p><p>3) Intelligence sharing on modelling assumptions could have been improved.</p><p>4) Senior officials focused too much on the models central forecast and not enough on the full range of plausible outcomes</p><p>&nbsp;</p>",
+        "strapline": "these factors increase costs by £2bn",
+        "_graphic": {
+          "src": "course/en/assets/3d889ed28d372ed49910742164fbb8821dcf0e0d.jpg",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/6c416c06005998448aae7e74eb5a1511aefe2e0c.JPG",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 0,
+        "_top": -38
+      },
+      {
+        "title": "lesson of 2018",
+        "_ariaLevel": -1,
+        "body": "<p>In 2011, the Renewable Heat Incentive (RHI) was launched. This is a scheme designed to encourage a switch from fossil fuel heating systems to lower-carbon alternatives in homes and businesses.</p><p>Lessons:</p><p>1) Having a governance system is important to scrutinise model design, application and reporting of results.</p><p>2) Parent organisations need to have sufficient oversight of the activity being undertaken in its arm’s length bodies, particularly where these bodies are delivering on its behalf</p><p>3) Assumptions should be underpinned by an evidence base and subject to independent review.</p><p>4) The system focused too much on the central estimate and not on the full range of plausible outcomes.</p>",
+        "strapline": "Low carbon heating of homes and businesses and the Renewable Heat Incentive, National Audit Office",
+        "_graphic": {
+          "src": "course/en/assets/39f5e37a569d998d25dd7dd6968d9c2f93d24f84.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/06d6796796222e84eb3fdfcec8f84a4dc0ee0481.JPG",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 27,
+        "_top": -38
+      },
+      {
+        "title": "lesson of 2018",
+        "_ariaLevel": 0,
+        "body": "<p>In 2012, the government set an obligation on energy suppliers to roll out smart meters in all homes and small businesses by 2019.</p><p>lessons:</p><p>1) Keeping models up to date help management keep an eye on progress and risks.</p><p>2) It is important to keep a close eye on model assumptions, particularly those which have the potential to materially change the models output</p><p>3) If assumptions are not kept up to date, knowledge drawn from models will also be out of date.</p>",
+        "strapline": "more timely data would have helped monitoring of costs",
+        "_graphic": {
+          "src": "course/en/assets/a40ddc5fbe323f4ac18258a5ffea5bceddba2aeb.jpg",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/f043f7546ff901b39d603b0a86b47b1ee93ae6ec.JPG",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 50,
+        "_top": -38
+      },
+      {
+        "title": "lesson of 2020",
+        "_ariaLevel": 0,
+        "body": "<p>Carrier strike provides the ability for the UK to launch fixed-wing aircraft from a ship to undertake several military tasks (see diagram). The costs of running this capability are significant and the MoD use models to forecasts costs ten years ahead.</p><p>Lessons:</p><p>1) The classification of a model as business critical typically drives increased scrutiny of that model. Conversely, the lack of a business critical classification can lead to reduced scrutiny. This highlights the importance of these classifications.</p><p>2) For a governance structure to be effective, it needs a ‘complete’ view of forecast costs to support long-term planning</p><p>3) Optimism bias can imply greater certainty in a model’s output.</p>",
+        "strapline": "National Audit Office",
+        "_graphic": {
+          "src": "course/en/assets/1783f14281b57dca1db0b5a1e9c8dc286f1f4610.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/673ae0494a81f452956c56f67f46619a59b4a22d.JPG",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 82,
+        "_top": -38
+      }
+    ]
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fbc0018bf638204fc400296",
+    "_parentId": "5fbbffdabf638204fc400295",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "click next for part two: what are the established principles of modelling practice?",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "Next",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The 8 Macpherson recommendations for better modelling ",
+    "displayTitle": "The 8 Macpherson recommendations for better modelling ",
+    "body": "",
+    "_id": "5fbc014ebf638204fc400297",
+    "_parentId": "5f904f1d3b0a63208a7b0d03",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "1: all business critical models should have quality assurance",
+        "body": "<p>not just the outputs, but input and methodology and assumptions too</p><p>the level of assurance depends on the model, but more is needed for business critical models</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": "dfdfdf"
+        },
+        "_classes": ""
+      },
+      {
+        "title": "2: quality assurance is a specialism",
+        "body": "<p>business critical models should be managed by specialist modelling staff</p><p>but this also means allowing space for training and development of expertise</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "3: senior responsible owners",
+        "body": "<p>every business critical model should have a senior responsible owner (SRO)</p><p>it's more than just a tick box,&nbsp;SROs are accountable for ensuring model risks, assumptions and limitations are managed and understood by users.</p><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "4: publish a list of business critical models",
+        "body": "<p>the accounting officer for each department (or arms length body) should publish an up to date list of business critical models in its annual report</p><p>the report should also detail&nbsp;whether there is a QA framework in place too</p><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "5: build a QA culture",
+        "body": "<p>each department (or arms length body) should have a plan to create the right environment:</p><p>culture: leadership, internal challenge, personal objectives, promoting understanding across the organisation</p><p>capacity: building time for QA, drawing on external expertise</p><p>control: a clear governance framework&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "6: build effective QA processes",
+        "body": "<p>this includes guidance documents, but each department or ALB will need to consider</p><p>how it defines \"business critical\" and proportionate QA</p><p>how it documents QA (for example checklists)</p><p>how it manages handover of knowledge&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "7: create an expert cross departmental modelling group",
+        "body": "<p>this is part of sharing best practice</p><p>each department or arms length body should have a champion on this group</p><p>but in addition, everyone involved in modelling in each department should engage with their champion too</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "8: organisations should review progress against these recommendations",
+        "body": "<p>this was done 12 months when these recommendations were published in 2013</p><p>has your organisation reviewed progress since then?</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "hotgraphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fbcf152bf638204fc40029f",
+    "_parentId": "5fbcf0cdbf638204fc40029e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Modelling guidance comes at three different levels: click each to understand more ",
+    "_setCompletionOn": "allItems",
+    "_graphic": {
+      "src": "course/en/assets/d24c9b63456495284f14813592a404c3b9d03abc.jpg",
+      "alt": "",
+      "attribution": ""
+    },
+    "mobileBody": "",
+    "mobileInstruction": "",
+    "_hidePagination": false,
+    "_canCycleThroughPagination": false,
+    "_isNarrativeOnMobile": true,
+    "_useNumberedPins": false,
+    "_useGraphicsAsPins": false,
+    "_isRound": false,
+    "_items": [
+      {
+        "title": "the macpherson review",
+        "_ariaLevel": 0,
+        "body": "<p>this sets out the fundamental principles of modelling through 8 recommendations</p><p>It is the foundation of modelling best practice</p>",
+        "strapline": "fundamental",
+        "_graphic": {
+          "src": "course/en/assets/e54894098ad03928681abc2c9ea6a93855ea1637.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/e54894098ad03928681abc2c9ea6a93855ea1637.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 85,
+        "_top": 60
+      },
+      {
+        "title": "The aqua book",
+        "_ariaLevel": 0,
+        "body": "<p>more detail guidance on how to implement the Macpherson recommendations</p>",
+        "strapline": "medium level",
+        "_graphic": {
+          "src": "course/en/assets/04e87be9dcd244b2636ac6064e1ea9aa1f2860f2.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/04e87be9dcd244b2636ac6064e1ea9aa1f2860f2.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 70,
+        "_top": 20
+      },
+      {
+        "title": "your organisation's guidance ",
+        "_ariaLevel": 0,
+        "body": "<p>bespoke detailed advice on implementing the AQUA book and Macpherson recommendations</p><p>the most detailed level of guidance</p>",
+        "strapline": "detailed level",
+        "_graphic": {
+          "src": "course/en/assets/13afe4e903154dfba4cfdd1cb7fb5d05f8d25e27.JPG",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/a07fc921b1108750679e601d026d29aafbc10e91.JPG",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 50,
+        "_top": 0
+      }
+    ]
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The AQUA book",
+    "displayTitle": "The AQUA book",
+    "body": "",
+    "_id": "5fbd1064bf638204fc4002bb",
+    "_parentId": "5f96a6913b0a63208a7b104d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Part A is Written for policy and commissioners of analysis",
+        "_ariaLevel": 0,
+        "body": "<p>it provides an overview of the key topics to ensure analysis is fit for purpose</p><p>&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/e30f90b21ffb771b865d6e20e6398b653bb150a2.jpg",
+          "alt": "",
+          "attribution": "AQUA book: Part A"
+        },
+        "strapline": "aqua book part A"
+      },
+      {
+        "title": "Part B is for the analyst and analytical assurers",
+        "_ariaLevel": 0,
+        "body": "<p>provides additional guidance on verification, validation and uncertainty</p>",
+        "_graphic": {
+          "src": "course/en/assets/9621836ed235b464a09f407ab0d21152b6d6335e.png",
+          "alt": "",
+          "attribution": "AQUA book: Part B"
+        },
+        "strapline": "AQUA book: Part B"
+      },
+      {
+        "title": "Part C provides additional supporting resources",
+        "_ariaLevel": 0,
+        "body": "<p>introduces additional supporting resources, specific guidance on verification and validation, example templates and documentation&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/71fb0d348db51c4519ddad0872e26fde700e3966.jpg",
+          "alt": "",
+          "attribution": "AQUA book: Part 3"
+        },
+        "strapline": "part C"
+      }
+    ]
+  },
+  {
+    "_component": "graphicwithlink",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "macpherson",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fbd3aafbf638204fc4002c3",
+    "_parentId": "5fbd3a6ebf638204fc4002c2",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "click the images to link to documents ",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e54894098ad03928681abc2c9ea6a93855ea1637.png",
+      "small": "course/en/assets/e54894098ad03928681abc2c9ea6a93855ea1637.png",
+      "attribution": "Review of quality assurance of Government analytical models: final report",
+      "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/206946/review_of_qa_of_govt_analytical_models_final_report_040313.pdf"
+    }
+  },
+  {
+    "_component": "graphicwithlink",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fbd3c43bf638204fc4002c6",
+    "_parentId": "5fbd3a6ebf638204fc4002c2",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/04e87be9dcd244b2636ac6064e1ea9aa1f2860f2.png",
+      "small": "course/en/assets/04e87be9dcd244b2636ac6064e1ea9aa1f2860f2.png",
+      "attribution": "The Aqua Book: guidance on producing quality analysis for government",
+      "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/416478/aqua_book_final_web.pdf"
+    }
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Macpherson recommendation 6",
+    "displayTitle": "Macpherson recommendation 6",
+    "body": "",
+    "_id": "5fbd3dbdbf638204fc4002ca",
+    "_parentId": "5fbd3cf7bf638204fc4002c9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "The BEIS QA tracker",
+        "_ariaLevel": 0,
+        "body": "<p>•Central register of all known models in BEIS</p><p>•Holds basic information about models such as:</p><p>-Description of model</p><p>-Software and hosting platform</p><p>-Governance roles</p><p>-Business criticality</p><p>-Links to model, its documentation and its QA log</p>",
+        "_graphic": {
+          "src": "course/en/assets/9621836ed235b464a09f407ab0d21152b6d6335e.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Introduction"
+      },
+      {
+        "title": "Scoring QA",
+        "_ariaLevel": 0,
+        "body": "<p>The tool</p><p>•keeps a record of all model’s current and previous QA scores</p><p>•produces monthly summary statistics looking at overall state of model QA.</p><p>•as of 2020, the spreadsheets is tracking around 95 BEIS models, 80 of which are in use.</p>",
+        "_graphic": {
+          "src": "course/en/assets/bf1d3267aaad89014ae8e94eed3ee02c01c0eb52.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "overview"
+      },
+      {
+        "title": "Keep records up to date",
+        "_ariaLevel": 0,
+        "body": "<p>There are 3 main types of updates:</p><p>•Monthly. If no QA log has been produced or they haven’t provided model information.</p><p>•Quarterly. If a QA log has been produced, but the score has not reached the threshold (85% for non-business critical, 90% for business critical) BEIS ask for quarterly updates</p><p>•Yearly.&nbsp;If the model has achieved the required QA score, BEIS send yearly e-mails asking if the information is still up-to-date</p>",
+        "_graphic": {
+          "src": "course/en/assets/8054acfda8c540e59b1bb86ea2a02a8922efe889.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "updates"
+      },
+      {
+        "title": "Scope",
+        "_ariaLevel": 0,
+        "body": "<p>The Modelling Integrity Team run “QA colleges” roughly every 6 weeks for all newcomers to the department.</p><p>They introduce QA templates in BEIS and how to use them.</p><p>They also introduce themselves and emphasise that all new models are included&nbsp;on the Tracking Spreadsheet.</p><p>Despite this, the truth is there are probably models in the department that we don’t know about. We are therefore introducing a yearly schedule whereby we e-mail all analysts in the department asking if any models are missing from the Tracking Spreadsheet.</p>",
+        "_graphic": {
+          "src": "course/en/assets/cea586e0b9de1770055a8c0d33b8daa6e4a8df3c.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "scope"
+      }
+    ]
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Macpherson recommendation 1",
+    "displayTitle": "Macpherson recommendation 1",
+    "body": "<p>What is a model? examples from across government</p>",
+    "_id": "5fbd402fbf638204fc4002cd",
+    "_parentId": "5fbd401dbf638204fc4002cc",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "What is a model",
+        "_ariaLevel": 0,
+        "body": "<p>most people agree a model is a simplified representation of reality</p><p>models have many purposes, which is not exhaustive as a list</p><p>any suggested QA processes should not duplicate existing QA. However,&nbsp;if in doubt, we advise doing the QA due diligence</p>",
+        "_graphic": {
+          "src": "course/en/assets/5c12aa116052c90b27ca9682aabc88f330e7712b.JPG",
+          "alt": "",
+          "attribution": "Macpherson review of modelling 2013"
+        },
+        "strapline": "what is a model"
+      },
+      {
+        "title": "What is a business critical model?",
+        "_ariaLevel": 0,
+        "body": "<p>This is a judgment of the impacts on business risk and complexity</p><p>for example, many departments use a rule of thumb that business critical risks are</p><p>DEL spend above £1m</p><p>AME spend above £50m</p><p>High reputational consequences&nbsp;</p><p>likewise, model complexity is a judgement of process risk.&nbsp;</p><p>We advise, if in doubt,&nbsp;always err on the side of due diligence</p>",
+        "_graphic": {
+          "src": "course/en/assets/3cd0a7d44d9a78abd55d8dfe53bf44b44cd03b73.JPG",
+          "alt": "",
+          "attribution": "Macpherson review of modelling 2013"
+        },
+        "strapline": "what is business critical"
+      },
+      {
+        "title": "Not sure if it's a model or not?",
+        "_ariaLevel": 0,
+        "body": "<p>if in doubt...do the QA due diligence</p>",
+        "_graphic": {
+          "src": "course/en/assets/c2fe5340d75ba3b6dd1e871ef085a1840182cc69.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "due diligence"
+      }
+    ]
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Macpherson recommendation 2",
+    "displayTitle": "Macpherson recommendation 2",
+    "body": "<p>specialist training in use of excel for financial modelling</p>",
+    "_id": "5fbe4e12155d3830851b2d6c",
+    "_parentId": "5fbe4e12155d3830851b2d6b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>Although mistakes can occur anywhere, in excel they are more likely to occur in certain areas&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/de22820e3dc9f01d16875a0c91f783309c82808c.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "common excel errors"
+      },
+      {
+        "title": "Model design",
+        "_ariaLevel": 0,
+        "body": "<p>assess model risk: key questions</p>",
+        "_graphic": {
+          "src": "course/en/assets/5fe36579e3c02c7607ade33171cc528045213ecc.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "model design"
+      },
+      {
+        "title": "model build ",
+        "_ariaLevel": 0,
+        "body": "<p>a range of tests to identify issues</p>",
+        "_graphic": {
+          "src": "course/en/assets/9db493cc9bed12f85ed4908b5665929c575e9be3.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "model build"
+      },
+      {
+        "title": "model review",
+        "_ariaLevel": 0,
+        "body": "<p>guidance on considerations when reviewing modelling</p>",
+        "_graphic": {
+          "src": "course/en/assets/5612bae95492845c559923fbd5b32b23b22cede7.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "model review"
+      },
+      {
+        "title": "formula reviewing",
+        "_ariaLevel": 0,
+        "body": "<p>what, when and when else to review formulas</p>",
+        "_graphic": {
+          "src": "course/en/assets/bad9b2ab42bb191d3ea47684cd43716091ecb8be.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "formula reviewing"
+      },
+      {
+        "title": "Parallel build",
+        "_ariaLevel": 0,
+        "body": "<p>•Requires full engagement by the reviewer with the purpose and functioning of the model, and therefore considers both validation and verification of outputs</p><p>•Parallel build may not identify deficiencies in coding or inefficient coding if it provides the same result as the parallel build.&nbsp;</p><p>•As the parallel build uses the same inputs it is unlikely to identify errors in the input assumptions themselves</p>",
+        "_graphic": {
+          "src": "course/en/assets/1ffda7bd799adbc674c829651f42d3f48052a31c.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "parallel build"
+      }
+    ]
+  },
+  {
+    "_component": "graphicwithlink",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "BEIS Quality Assurance (QA) modelling: assumptions log template",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fbe6c3a155d3830851b2d91",
+    "_parentId": "5fbe6c3a155d3830851b2d90",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "click the images to link to documents ",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/08a9e4ce74b83e0efdb0694e03ae525e18f8bb20.JPG",
+      "small": "course/en/assets/08a9e4ce74b83e0efdb0694e03ae525e18f8bb20.JPG",
+      "attribution": "BEIS Quality Assurance (QA) modelling: assumptions log template",
+      "url": "https://www.gov.uk/government/publications/assumptions-log-template"
+    }
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "now you know the principles of good modelling",
+    "displayTitle": "now you know the principles of good modelling",
+    "body": "",
+    "_id": "5fbe77a6155d3830851b2d9d",
+    "_parentId": "5fbe7793155d3830851b2d9c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "Next: put it into practice",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Macpherson recommendation 1 and your work",
+    "displayTitle": "Macpherson recommendation 1 and your work",
+    "body": "",
+    "_id": "5fbe8e3e155d3830851b2dad",
+    "_parentId": "5fbe8e2d155d3830851b2dac",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "do you have the right QA in place, up to date, not just for outputs but inputs, methodology and assumptions too?",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "yes",
+        "body": "<p>fantastic...why not send&nbsp;<a href=\"http://dqhub@ons.gov.uk\">dqhub@ons.gov.uk</a>&nbsp;a case study of how you did it?&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/c2fe5340d75ba3b6dd1e871ef085a1840182cc69.png",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "No or not sure",
+        "body": "<p>if you're not sure, why not use the <a href=\"https://www.gov.uk/government/publications/assumptions-log-template\">assessment tool&nbsp;</a>&nbsp;to see what the issues might be? Aim for a score of 90% for business critical models, 85% for non business critical</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Macpherson recommendation 2 and your work",
+    "displayTitle": "Macpherson recommendation 2 and your work",
+    "body": "",
+    "_id": "5fbf9a91155d3830851b2dd3",
+    "_parentId": "5fbf9a89155d3830851b2dd2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "do you have the right level of training for your staff to build expertise in handling business critical (and other) models? ",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "yes",
+        "body": "<p>perhaps you could share your success with the <a href=\"http://dqhub@ons.gov.uk\">DQHub</a>?</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "I could do with some more....",
+        "body": "<ol><li>do an assessment using BEIS&nbsp;model scoring system</li><li>engage your department's QA champion</li><li>If you don't know who this is, or could do with additional support, did you know that <a href=\"http://dqhub@ons.gov.uk\">DQhub</a> provide free support?</li></ol><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/690cb58538d198217f765b18dc6355f78abf3874.png",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Macpherson recommendation 3 and your work",
+    "displayTitle": "Macpherson recommendation 3 and your work",
+    "body": "",
+    "_id": "5fbf9ea0155d3830851b2dd7",
+    "_parentId": "5fbf9e9a155d3830851b2dd6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Do you have a senior responsible owner (SRO)  for each business critical model? are they actively aware of and managing risks? table for ensuring model risks, assumptions and limitations are managed and understood by users.",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Yes",
+        "body": "<p>this best practice!</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/ece9c3f3b889cae3811c149fd8c4d9585dd24cf3.jpg",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "No this could be better",
+        "body": "<p>SRO training (BEIS) to be inserted&nbsp;</p><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Macpherson recommendation 4",
+    "displayTitle": "Macpherson recommendation 4",
+    "body": "",
+    "_id": "5fbf9fbd155d3830851b2dda",
+    "_parentId": "5fbf9fb6155d3830851b2dd9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "is an up to date list of your business critical models published and reviewed in your department's annual report (or elsewhere)??",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Yes",
+        "body": "<p>you're a star</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "No or not sure",
+        "body": "<p>search for your department's annual report on gov.uk for mention of business critical models</p><p>if not, why not work with your QA champ to develop the list, and publish in time for your next annual report?</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  }
+]
