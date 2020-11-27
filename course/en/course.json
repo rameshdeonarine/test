@@ -1,12 +1,12 @@
 {
   "title": "Introduction to modelling best practice for analysts",
   "displayTitle": "Introduction to modelling best practice for analysts",
-  "body": "<p>this course has 3 aims: 1) Explain why QA is important 2) Demonstrate good principles 3) Practice this in your work&nbsp;</p>",
-  "subtitle": "for analysts involved in modelling",
+  "body": "<p>this course has 3 aims: explain, demonstrate and practice good QA practice for both&nbsp;policy and analysts. It compliments your organisations guidance&nbsp;</p>",
+  "subtitle": "for analysts and policymakers involved in modelling",
   "description": "",
   "instruction": "",
   "_htmlClasses": "mainPage",
-  "_latestTrackingId": 19,
+  "_latestTrackingId": 27,
   "_buttons": {
     "_submit": {
       "buttonText": "Submit",

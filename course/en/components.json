@@ -1229,7 +1229,7 @@
     "_items": [
       {
         "title": "yes",
-        "body": "<p>fantastic...why not send&nbsp;<a href=\"http://dqhub@ons.gov.uk\">dqhub@ons.gov.uk</a>&nbsp;a case study of how you did it?&nbsp;</p>",
+        "body": "<p>fantastic...why not send&nbsp;DQHub@ons.gov.uk a case study of how you did it?&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "course/en/assets/c2fe5340d75ba3b6dd1e871ef085a1840182cc69.png",
@@ -1281,7 +1281,7 @@
     "_items": [
       {
         "title": "yes",
-        "body": "<p>perhaps you could share your success with the <a href=\"http://dqhub@ons.gov.uk\">DQHub</a>?</p>",
+        "body": "<p>perhaps you could share your success with the DQHub@ons.gov.uk?</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -1291,7 +1291,7 @@
       },
       {
         "title": "I could do with some more....",
-        "body": "<ol><li>do an assessment using BEIS&nbsp;model scoring system</li><li>engage your department's QA champion</li><li>If you don't know who this is, or could do with additional support, did you know that <a href=\"http://dqhub@ons.gov.uk\">DQhub</a> provide free support?</li></ol><p>&nbsp;</p>",
+        "body": "<ol><li>do an assessment using BEIS&nbsp;model scoring system</li><li>engage your department's QA champion</li><li>If you don't know who this is, or could do with additional support, did you know that DQHub@ons.gov.uk provide free support?</li></ol><p>&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "course/en/assets/690cb58538d198217f765b18dc6355f78abf3874.png",
@@ -1333,7 +1333,7 @@
     "_items": [
       {
         "title": "Yes",
-        "body": "<p>this best practice!</p>",
+        "body": "<p>this is best practice!</p>",
         "_graphic": {
           "alt": "",
           "src": "course/en/assets/ece9c3f3b889cae3811c149fd8c4d9585dd24cf3.jpg",
@@ -1364,8 +1364,8 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Macpherson recommendation 4",
-    "displayTitle": "Macpherson recommendation 4",
+    "title": "Macpherson recommendation 4 and your work",
+    "displayTitle": "Macpherson recommendation 4 and your work",
     "body": "",
     "_id": "5fbf9fbd155d3830851b2dda",
     "_parentId": "5fbf9fb6155d3830851b2dd9",
@@ -1395,7 +1395,7 @@
       },
       {
         "title": "No or not sure",
-        "body": "<p>search for your department's annual report on gov.uk for mention of business critical models</p><p>if not, why not work with your QA champ to develop the list, and publish in time for your next annual report?</p>",
+        "body": "<p>search for your department's annual report on gov.uk for mention of business critical models</p><p>if not, why not work with your QA champion to develop the list, and publish in time for your next annual report?</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -1405,5 +1405,459 @@
       }
     ],
     "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Macpherson recommendation 5 and your work",
+    "displayTitle": "Macpherson recommendation 5 and your work",
+    "body": "",
+    "_id": "5fc119d7155d3830851b2e41",
+    "_parentId": "5fc119cf155d3830851b2e40",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "5. do you have a plan to create the right QA environment (culture, capacity and controls)?",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "yes",
+        "body": "<p>congratulations</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "No or could do more",
+        "body": "<p>you could find out what other departments are doing through the interdepartmental champions network or&nbsp;email&nbsp;DQHub@ons.gov.uk</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Macpherson recommendation 6",
+    "displayTitle": "Macpherson recommendation 6",
+    "body": "",
+    "_id": "5fc11ea2155d3830851b2e43",
+    "_parentId": "5fc11e46155d3830851b2e42",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "do you have access to and use effective QA processes (internal guidance such as checklists etc)?",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "yes ",
+        "body": "<p>this is very good practice, why not share you approach with us at DQHub@ons.gov.uk</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "No...",
+        "body": "<p>contact your QA champion (or the DQHub@ons.gov.uk)</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Macpherson recommendation 7 and your work",
+    "displayTitle": "Macpherson recommendation 7 and your work",
+    "body": "",
+    "_id": "5fc11f73155d3830851b2e45",
+    "_parentId": "5fc11f67155d3830851b2e44",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "does your organisation have a QA champion on the Inter-Departmental Working Group on Quality Assurance of Analytical Models?",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "yes ",
+        "body": "<p>this group meets monthly, why not introduce yourself to your champion?</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Not sure or no",
+        "body": "<p>check with us at&nbsp;DQHub@ons.gov.uk</p><p>why not consider volunteering if your department does not have representation?</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Macpherson recommendation 8 and your work",
+    "displayTitle": "Macpherson recommendation 8 and your work",
+    "body": "<p>good news is that by completing this checklist you are reviewing your progress against the Macpherson recommendations.&nbsp;</p>",
+    "_id": "5fc1207c155d3830851b2e47",
+    "_parentId": "5fc12077155d3830851b2e46",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "well done",
+        "body": "<p>nice one!</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/fedc2821bcee0f773312638b292cc600d4ee2f93.jpg",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "further information",
+    "displayTitle": "further information",
+    "body": "<p>you can find more detail in the <a href=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/416478/aqua_book_final_web.pdf\">AQUA book&nbsp;</a>part A. This section is written for policy makers</p><p>Chapter 2 explains how commissioning analysis relates to the problem under investigation and the decision the analysis is helping to inform.</p><p>Chapter 3 provides an overview of how to commission analysis that will be fit-for-purpose.</p><p>Chapter 4 introduces the two main questions to be asked of any piece of analysis: is it the right analysis and has it been conducted correctly.</p><p>Chapter 5 explains that uncertainty is inherent in all analysis and needs to be acknowledged, understood, managed and clearly communicated.</p>",
+    "_id": "5fc123b9155d3830851b2e57",
+    "_parentId": "5fc123b9155d3830851b2e4f",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "help kick the tyres of the analysis in partnership with your analysts",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fc12a9c155d3830851b2e63",
+    "_parentId": "5fc123b9155d3830851b2e50",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/c2fe5340d75ba3b6dd1e871ef085a1840182cc69.png",
+      "small": "course/en/assets/c2fe5340d75ba3b6dd1e871ef085a1840182cc69.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "in partnership",
+    "displayTitle": "",
+    "body": "<p>help kick the tyres of the analysis in partnership with your analysts</p>",
+    "_id": "5fc12af4155d3830851b2e66",
+    "_parentId": "5fc123b9155d3830851b2e50",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphicwithlink",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fc12b4f155d3830851b2e67",
+    "_parentId": "5fc123b9155d3830851b2e4f",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/04e87be9dcd244b2636ac6064e1ea9aa1f2860f2.png",
+      "small": "course/en/assets/04e87be9dcd244b2636ac6064e1ea9aa1f2860f2.png",
+      "attribution": "",
+      "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/416478/aqua_book_final_web.pdf"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "<p>See&nbsp;<a href=\"https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/index.html\">Uncertainty Toolkit for Analysts in Governmen</a><a href=\"https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/chapter_4.html\">t</a></p>",
+    "_id": "5fc12c60155d3830851b2e6a",
+    "_parentId": "5fc123b9155d3830851b2e51",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6c961bf6f686425ab9d1f059d7eaf61762a62f43.png",
+      "small": "course/en/assets/6c961bf6f686425ab9d1f059d7eaf61762a62f43.png",
+      "attribution": "Uncertainty Toolkit for Analysts in Government "
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>“Best or central estimates” are not usually enough. Understand the full range of plausible outcomes and keep all of those in mind in decision making</p>",
+    "_id": "5fc12c70155d3830851b2e6b",
+    "_parentId": "5fc123b9155d3830851b2e51",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Macpherson recommendation 3",
+    "displayTitle": "Macpherson recommendation 3",
+    "body": "<p>the toolkit contains a range of practical examples of <a href=\"https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/index.html\">communication from across government</a></p>",
+    "_id": "5fc12faa155d3830851b2e70",
+    "_parentId": "5fc12f87155d3830851b2e6f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>This toolkit is aimed at all analysts, whether you are new to the Government or an experienced analyst looking to develop the way you communicate uncertainty to stakeholders.</p><p>&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/6c961bf6f686425ab9d1f059d7eaf61762a62f43.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "dswregw"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>This document sits alongside the Aqua Book guidance on quality analysis. T</p><p>his is a supplementary document providing additional information for identifying, estimating and communicating uncertainty in analysis to support decisions and decision-makers.</p>",
+        "_graphic": {
+          "src": "course/en/assets/6c961bf6f686425ab9d1f059d7eaf61762a62f43.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "ef"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<blockquote><p>\"The case studies were interesting examples. &nbsp;Although the content is all fairly basic stuff that can be found from any number of resources, pulling it together in one place might get more analysts thinking about uncertainty.\"</p></blockquote>",
+        "_graphic": {
+          "src": "course/en/assets/81ce3c69e3df8cd9c11b8d56592b34331ef6d2bc.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "dvf"
+      }
+    ]
   }
 ]
