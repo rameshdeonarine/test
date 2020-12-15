@@ -60,7 +60,7 @@
       {
         "_flipDirection": "horizontal",
         "frontImage": {
-          "alt": "press enter for learning point 1",
+          "alt": "press enter for learning point 1: the history of modelling in government shows that the principles of the macpherson review and AQUA book are just as relevant as ever.",
           "src": "course/en/assets/a163476bdb5a1e2ee03cf3cf64c94f9635358a92.jpg"
         },
         "backTitle": "",
@@ -101,7 +101,7 @@
       {
         "_flipDirection": "horizontal",
         "frontImage": {
-          "alt": "press enter for learning point 2",
+          "alt": "press enter for learning point 2: When not well implemented, the results can be very to costly for the reputation of government",
           "src": "course/en/assets/cd0e9537bd0ca0b15045c66d97edd9c7c3b2ee0a.jpg"
         },
         "backTitle": "",
@@ -142,9 +142,9 @@
         "title": "Analysis and the use of evidence informs every important decision we make as civil servants",
         "body": "<p>It also underpins the civil service values</p>",
         "_graphic": {
-          "alt": "",
+          "alt": "Image of civil service values integrity, objectivity, impartiality and honesty",
           "src": "course/en/assets/3153326131cc08afd91e679613b60d8b7cf15dcc.png",
-          "attribution": "A"
+          "attribution": ""
         },
         "_classes": ""
       },
@@ -152,7 +152,7 @@
         "title": "If modelling is not fit-for-purpose then the damage is manyfold ",
         "body": "<p>it can lead to:</p><p>&nbsp;</p>",
         "_graphic": {
-          "alt": "",
+          "alt": "image of damage happening",
           "src": "course/en/assets/77297c301fbf408a0d9c34d2811c1a97a2911fe7.jpg",
           "attribution": "legal challenge  /  reputational damage  /  delays  /  escalating project cost"
         },
@@ -162,7 +162,7 @@
         "title": "quality assurance control is therefore not just about decision making.",
         "body": "<p>It is also a&nbsp;key aspect of the effective risk management</p>",
         "_graphic": {
-          "alt": "",
+          "alt": "image of risk managment",
           "src": "course/en/assets/927df1e2e86fce304b55f33ed875a3c8a22b4391.jpg",
           "attribution": ""
         },
@@ -204,7 +204,7 @@
       {
         "_flipDirection": "horizontal",
         "frontImage": {
-          "alt": "",
+          "alt": "image of £50m cost to taxpayer of west coast mainline modelling errors",
           "src": "course/en/assets/61e0ed34eeae016e41d21d6d0f999be09c285c25.JPG"
         },
         "backTitle": "",
@@ -242,7 +242,7 @@
     "_setCompletionOn": "allItems",
     "_graphic": {
       "src": "course/en/assets/696b9478f4c766f74fb6030bceca8d2fadf19bdf.JPG",
-      "alt": "",
+      "alt": "image of timeline 2016 until 2020",
       "attribution": "source: National Audit Office. Recent lessons show weaknesses across a number of modelling programmes. The solutions are relatively simple which you can see in section two (demonstrate)"
     },
     "mobileBody": "",
@@ -261,13 +261,13 @@
         "strapline": "these factors increase costs by £2bn",
         "_graphic": {
           "src": "course/en/assets/3d889ed28d372ed49910742164fbb8821dcf0e0d.jpg",
-          "alt": "",
+          "alt": "image of wind farm",
           "attribution": "",
           "_classes": ""
         },
         "_pin": {
           "src": "course/en/assets/6c416c06005998448aae7e74eb5a1511aefe2e0c.JPG",
-          "alt": ""
+          "alt": "image of the levy control framework, and its out of data assumptions leading to its closure"
         },
         "_classes": "",
         "_left": 0,
@@ -280,13 +280,13 @@
         "strapline": "Low carbon heating of homes and businesses and the Renewable Heat Incentive, National Audit Office",
         "_graphic": {
           "src": "course/en/assets/39f5e37a569d998d25dd7dd6968d9c2f93d24f84.png",
-          "alt": "",
+          "alt": "image of house with boilers, heatpumps and biomass",
           "attribution": "",
           "_classes": ""
         },
         "_pin": {
           "src": "course/en/assets/06d6796796222e84eb3fdfcec8f84a4dc0ee0481.JPG",
-          "alt": ""
+          "alt": "image of renewable heat incentive and estimates that were unreliable "
         },
         "_classes": "",
         "_left": 27,
@@ -299,13 +299,13 @@
         "strapline": "more timely data would have helped monitoring of costs",
         "_graphic": {
           "src": "course/en/assets/a40ddc5fbe323f4ac18258a5ffea5bceddba2aeb.jpg",
-          "alt": "",
+          "alt": "image of a smart meter",
           "attribution": "",
           "_classes": ""
         },
         "_pin": {
           "src": "course/en/assets/f043f7546ff901b39d603b0a86b47b1ee93ae6ec.JPG",
-          "alt": ""
+          "alt": "image of smart meter rollout, and over optimistic assumptions weakening the business case"
         },
         "_classes": "",
         "_left": 50,
@@ -318,13 +318,13 @@
         "strapline": "National Audit Office",
         "_graphic": {
           "src": "course/en/assets/1783f14281b57dca1db0b5a1e9c8dc286f1f4610.png",
-          "alt": "",
+          "alt": "image of defence aircraft",
           "attribution": "",
           "_classes": ""
         },
         "_pin": {
           "src": "course/en/assets/673ae0494a81f452956c56f67f46619a59b4a22d.JPG",
-          "alt": ""
+          "alt": "image of carrier strike programme, and incomplete assumptions of longer term costs"
         },
         "_classes": "",
         "_left": 82,
@@ -594,7 +594,7 @@
     "_setCompletionOn": "allItems",
     "_graphic": {
       "src": "course/en/assets/d24c9b63456495284f14813592a404c3b9d03abc.jpg",
-      "alt": "",
+      "alt": "image of iceberg",
       "attribution": ""
     },
     "mobileBody": "",
@@ -613,13 +613,13 @@
         "strapline": "fundamental",
         "_graphic": {
           "src": "course/en/assets/e54894098ad03928681abc2c9ea6a93855ea1637.png",
-          "alt": "",
+          "alt": "image of the macpherson review of quality assurance in government analytical models",
           "attribution": "",
           "_classes": ""
         },
         "_pin": {
           "src": "course/en/assets/e54894098ad03928681abc2c9ea6a93855ea1637.png",
-          "alt": ""
+          "alt": "image of the macpherson review of quality assurance in government analytical models"
         },
         "_classes": "",
         "_left": 85,
@@ -632,13 +632,13 @@
         "strapline": "medium level",
         "_graphic": {
           "src": "course/en/assets/04e87be9dcd244b2636ac6064e1ea9aa1f2860f2.png",
-          "alt": "",
+          "alt": "image of the AQUA book: guidance on producing quality analysis in government",
           "attribution": "",
           "_classes": ""
         },
         "_pin": {
           "src": "course/en/assets/04e87be9dcd244b2636ac6064e1ea9aa1f2860f2.png",
-          "alt": ""
+          "alt": "image of the AQUA book: guidance on producing quality analysis in government"
         },
         "_classes": "",
         "_left": 70,
@@ -651,13 +651,13 @@
         "strapline": "detailed level",
         "_graphic": {
           "src": "course/en/assets/13afe4e903154dfba4cfdd1cb7fb5d05f8d25e27.JPG",
-          "alt": "",
+          "alt": "image of departmental logos",
           "attribution": "",
           "_classes": ""
         },
         "_pin": {
           "src": "course/en/assets/a07fc921b1108750679e601d026d29aafbc10e91.JPG",
-          "alt": ""
+          "alt": "image of the AQUA book: guidance on producing quality analysis in government"
         },
         "_classes": "",
         "_left": 50,
@@ -702,7 +702,7 @@
         "body": "<p>it provides an overview of the key topics to ensure analysis is fit for purpose</p><p>&nbsp;</p>",
         "_graphic": {
           "src": "course/en/assets/e30f90b21ffb771b865d6e20e6398b653bb150a2.jpg",
-          "alt": "",
+          "alt": "imagine of policymaking",
           "attribution": "AQUA book: Part A"
         },
         "strapline": "aqua book part A"
@@ -713,7 +713,7 @@
         "body": "<p>provides additional guidance on verification, validation and uncertainty</p>",
         "_graphic": {
           "src": "course/en/assets/9621836ed235b464a09f407ab0d21152b6d6335e.png",
-          "alt": "",
+          "alt": "imagine of analysis charts",
           "attribution": "AQUA book: Part B"
         },
         "strapline": "AQUA book: Part B"
@@ -724,7 +724,7 @@
         "body": "<p>introduces additional supporting resources, specific guidance on verification and validation, example templates and documentation&nbsp;</p>",
         "_graphic": {
           "src": "course/en/assets/71fb0d348db51c4519ddad0872e26fde700e3966.jpg",
-          "alt": "",
+          "alt": "image of numbers and resources",
           "attribution": "AQUA book: Part 3"
         },
         "strapline": "part C"
@@ -759,9 +759,9 @@
     },
     "instruction": "click the images to link to documents ",
     "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/e54894098ad03928681abc2c9ea6a93855ea1637.png",
-      "small": "course/en/assets/e54894098ad03928681abc2c9ea6a93855ea1637.png",
+      "alt": "image of the macpherson review of modelling in government",
+      "large": "course/en/assets/a8f0e888be337d2bf38bad2ebcfaa6874ff4e953.JPG",
+      "small": "course/en/assets/a8f0e888be337d2bf38bad2ebcfaa6874ff4e953.JPG",
       "attribution": "Review of quality assurance of Government analytical models: final report",
       "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/206946/review_of_qa_of_govt_analytical_models_final_report_040313.pdf"
     }
@@ -794,7 +794,7 @@
     },
     "instruction": "",
     "_graphic": {
-      "alt": "",
+      "alt": "image of the AQUA book ",
       "large": "course/en/assets/04e87be9dcd244b2636ac6064e1ea9aa1f2860f2.png",
       "small": "course/en/assets/04e87be9dcd244b2636ac6064e1ea9aa1f2860f2.png",
       "attribution": "The Aqua Book: guidance on producing quality analysis for government",
@@ -838,7 +838,7 @@
         "body": "<p>•Central register of all known models in BEIS</p><p>•Holds basic information about models such as:</p><p>-Description of model</p><p>-Software and hosting platform</p><p>-Governance roles</p><p>-Business criticality</p><p>-Links to model, its documentation and its QA log</p>",
         "_graphic": {
           "src": "course/en/assets/9621836ed235b464a09f407ab0d21152b6d6335e.png",
-          "alt": "",
+          "alt": "image of analysis and charts",
           "attribution": ""
         },
         "strapline": "Introduction"
@@ -849,8 +849,8 @@
         "body": "<p>The tool</p><p>•keeps a record of all model’s current and previous QA scores</p><p>•produces monthly summary statistics looking at overall state of model QA.</p><p>•as of 2020, the spreadsheets is tracking around 95 BEIS models, 80 of which are in use.</p>",
         "_graphic": {
           "src": "course/en/assets/bf1d3267aaad89014ae8e94eed3ee02c01c0eb52.png",
-          "alt": "",
-          "attribution": ""
+          "alt": "image of donut chart of average score for business critical models",
+          "attribution": "BEIS"
         },
         "strapline": "overview"
       },
@@ -860,8 +860,8 @@
         "body": "<p>There are 3 main types of updates:</p><p>•Monthly. If no QA log has been produced or they haven’t provided model information.</p><p>•Quarterly. If a QA log has been produced, but the score has not reached the threshold (85% for non-business critical, 90% for business critical) BEIS ask for quarterly updates</p><p>•Yearly.&nbsp;If the model has achieved the required QA score, BEIS send yearly e-mails asking if the information is still up-to-date</p>",
         "_graphic": {
           "src": "course/en/assets/8054acfda8c540e59b1bb86ea2a02a8922efe889.png",
-          "alt": "",
-          "attribution": ""
+          "alt": "image of timeseries of improvement of average score for models over time",
+          "attribution": "BEIS"
         },
         "strapline": "updates"
       },
@@ -871,8 +871,8 @@
         "body": "<p>The Modelling Integrity Team run “QA colleges” roughly every 6 weeks for all newcomers to the department.</p><p>They introduce QA templates in BEIS and how to use them.</p><p>They also introduce themselves and emphasise that all new models are included&nbsp;on the Tracking Spreadsheet.</p><p>Despite this, the truth is there are probably models in the department that we don’t know about. We are therefore introducing a yearly schedule whereby we e-mail all analysts in the department asking if any models are missing from the Tracking Spreadsheet.</p>",
         "_graphic": {
           "src": "course/en/assets/cea586e0b9de1770055a8c0d33b8daa6e4a8df3c.png",
-          "alt": "",
-          "attribution": ""
+          "alt": "imagine of number of models tracked and scored over time",
+          "attribution": "BEIS"
         },
         "strapline": "scope"
       }
@@ -915,7 +915,7 @@
         "body": "<p>most people agree a model is a simplified representation of reality</p><p>models have many purposes, which is not exhaustive as a list</p><p>any suggested QA processes should not duplicate existing QA. However,&nbsp;if in doubt, we advise doing the QA due diligence</p>",
         "_graphic": {
           "src": "course/en/assets/5c12aa116052c90b27ca9682aabc88f330e7712b.JPG",
-          "alt": "",
+          "alt": "Image of a table defining models by their purpose First, Policy simulation is about Appraisal of policy options, analysis of impact on people, finances, etc  Example is the Intra Government Tax Benefit Model   Second, Forecasting is about Assessing the future,  perhaps to provide base information for policy development or financial planning for example the State Pension expenditure forecast   Three, Financial evaluation is about Assessment of liability or future cost, for example Pension liabilities, higher education loan repayment model   Procurement and commercial Evaluation is about VfM or affordability and award of contracts for example Awarding of rail franchises   Planning  is about planning current actions based on future forecasts, for example Teachers, NHS   Science-based is Understanding and forecasting natural systems, for example Climate change   Allocation is Distribution of funding across organisations responsible for service delivery, for example the Police allocation formula",
           "attribution": "Macpherson review of modelling 2013"
         },
         "strapline": "what is a model"
@@ -926,7 +926,7 @@
         "body": "<p>This is a judgment of the impacts on business risk and complexity</p><p>for example, many departments use a rule of thumb that business critical risks are</p><p>DEL spend above £1m</p><p>AME spend above £50m</p><p>High reputational consequences&nbsp;</p><p>likewise, model complexity is a judgement of process risk.&nbsp;</p><p>We advise, if in doubt,&nbsp;always err on the side of due diligence</p>",
         "_graphic": {
           "src": "course/en/assets/3cd0a7d44d9a78abd55d8dfe53bf44b44cd03b73.JPG",
-          "alt": "",
+          "alt": "image of indicative types of QA that might be expected given different levels of risk  Low business risk and simple modelling needs minimal proportionate QA such as testing and versioning Higher risk and complex modelling needs internal, external auditing in addition",
           "attribution": "Macpherson review of modelling 2013"
         },
         "strapline": "what is business critical"
@@ -937,7 +937,7 @@
         "body": "<p>if in doubt...do the QA due diligence</p>",
         "_graphic": {
           "src": "course/en/assets/c2fe5340d75ba3b6dd1e871ef085a1840182cc69.png",
-          "alt": "",
+          "alt": "image of not sure if quality is really good or testing was really lousy",
           "attribution": ""
         },
         "strapline": "due diligence"
@@ -981,8 +981,8 @@
         "body": "<p>Although mistakes can occur anywhere, in excel they are more likely to occur in certain areas&nbsp;</p>",
         "_graphic": {
           "src": "course/en/assets/de22820e3dc9f01d16875a0c91f783309c82808c.png",
-          "alt": "",
-          "attribution": ""
+          "alt": "image of inflation, timeline, inconsistency in rows, incorrect anchoring, external links, lack of logic in calculations, formulas difficult to explain, and incorrect assumptions",
+          "attribution": "OFWAT guidance"
         },
         "strapline": "common excel errors"
       },
@@ -992,8 +992,8 @@
         "body": "<p>assess model risk: key questions</p>",
         "_graphic": {
           "src": "course/en/assets/5fe36579e3c02c7607ade33171cc528045213ecc.png",
-          "alt": "",
-          "attribution": ""
+          "alt": "image of risk assessment questions: With reference to the impact on Ofwat and/or the water industry, how material in financial terms is the spreadsheet? In terms of reputational impact on Ofwat, how significant is the spreadsheet? How significant to Ofwat are the legal issues related to the spreadsheet? Who will be relying on the results of the spreadsheet for decision making or other purposes? What are the sources of inputs / assumptions for the model? How many individuals are involved in the development and use of model and its outputs How flexible is model? How complex is the model structure Number of unique formulae (ignoring inputs and labels) Is the model compliant with the FAST standard? How novel is the modelling approach? How much resource has been allocated to the modelling exercise?",
+          "attribution": "OFWAT guidance"
         },
         "strapline": "model design"
       },
@@ -1003,7 +1003,7 @@
         "body": "<p>a range of tests to identify issues</p>",
         "_graphic": {
           "src": "course/en/assets/9db493cc9bed12f85ed4908b5665929c575e9be3.png",
-          "alt": "",
+          "alt": "QA at model stage: FAST best practice QA and data entry Checks Tracker sheet OAK Map F11 Quick Charts Dummy inputs review",
           "attribution": ""
         },
         "strapline": "model build"
@@ -1014,7 +1014,7 @@
         "body": "<p>guidance on considerations when reviewing modelling</p>",
         "_graphic": {
           "src": "course/en/assets/5612bae95492845c559923fbd5b32b23b22cede7.png",
-          "alt": "",
+          "alt": "QA at model review: Unique Formula Review  Parallel Build Review  Sensitivities review  External Audit/Review ",
           "attribution": ""
         },
         "strapline": "model review"
@@ -1025,7 +1025,7 @@
         "body": "<p>what, when and when else to review formulas</p>",
         "_graphic": {
           "src": "course/en/assets/bad9b2ab42bb191d3ea47684cd43716091ecb8be.png",
-          "alt": "",
+          "alt": "High-risk projects or when high levels of assurance are required Detailed analysis of all formulas in a model to ensure they are performing the desired function Checking consistency within a model where calculation sheets are duplicated",
           "attribution": ""
         },
         "strapline": "formula reviewing"
@@ -1036,7 +1036,7 @@
         "body": "<p>•Requires full engagement by the reviewer with the purpose and functioning of the model, and therefore considers both validation and verification of outputs</p><p>•Parallel build may not identify deficiencies in coding or inefficient coding if it provides the same result as the parallel build.&nbsp;</p><p>•As the parallel build uses the same inputs it is unlikely to identify errors in the input assumptions themselves</p>",
         "_graphic": {
           "src": "course/en/assets/1ffda7bd799adbc674c829651f42d3f48052a31c.png",
-          "alt": "",
+          "alt": "• What is a parallel build review? \t• When a reviewer independently builds a calculation block and reviews whether their outputs match the original model • When should you do it? \t• High-risk projects or when high levels of assurance are required When formulas or calculation blocks are convoluted and hard to understand",
           "attribution": ""
         },
         "strapline": "parallel build"
@@ -1343,7 +1343,7 @@
       },
       {
         "title": "No this could be better",
-        "body": "<p>SRO training (BEIS) to be inserted&nbsp;</p><p>&nbsp;</p>",
+        "body": "<p>consider SRO training&nbsp; run by BEIS.&nbsp;&nbsp;&nbsp;</p><p>&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -1595,7 +1595,7 @@
         "title": "well done",
         "body": "<p>nice one!</p>",
         "_graphic": {
-          "alt": "",
+          "alt": "image of people celebrating",
           "src": "course/en/assets/fedc2821bcee0f773312638b292cc600d4ee2f93.jpg",
           "attribution": ""
         },
@@ -1663,7 +1663,7 @@
     },
     "instruction": "",
     "_graphic": {
-      "alt": "",
+      "alt": "image of meme \"not sure if quality is really good or testing was really lousy\"",
       "large": "course/en/assets/c2fe5340d75ba3b6dd1e871ef085a1840182cc69.png",
       "small": "course/en/assets/c2fe5340d75ba3b6dd1e871ef085a1840182cc69.png",
       "attribution": ""
@@ -1725,7 +1725,7 @@
     },
     "instruction": "",
     "_graphic": {
-      "alt": "",
+      "alt": "image of the AQUA book",
       "large": "course/en/assets/04e87be9dcd244b2636ac6064e1ea9aa1f2860f2.png",
       "small": "course/en/assets/04e87be9dcd244b2636ac6064e1ea9aa1f2860f2.png",
       "attribution": "",
@@ -1760,7 +1760,7 @@
     },
     "instruction": "",
     "_graphic": {
-      "alt": "",
+      "alt": "image of uncertainty fan chart",
       "large": "course/en/assets/6c961bf6f686425ab9d1f059d7eaf61762a62f43.png",
       "small": "course/en/assets/6c961bf6f686425ab9d1f059d7eaf61762a62f43.png",
       "attribution": "Uncertainty Toolkit for Analysts in Government "
@@ -1830,22 +1830,22 @@
         "_ariaLevel": 0,
         "body": "<p>This toolkit is aimed at all analysts, whether you are new to the Government or an experienced analyst looking to develop the way you communicate uncertainty to stakeholders.</p><p>&nbsp;</p>",
         "_graphic": {
-          "src": "course/en/assets/6c961bf6f686425ab9d1f059d7eaf61762a62f43.png",
-          "alt": "",
+          "src": "course/en/assets/696321920c33d8866cc04eff7a4777897273e79a.JPG",
+          "alt": "image of uncertainty toolkit on web https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/index.html",
           "attribution": ""
         },
-        "strapline": "dswregw"
+        "strapline": "uncertainty toolkit"
       },
       {
         "title": "",
         "_ariaLevel": 0,
-        "body": "<p>This document sits alongside the Aqua Book guidance on quality analysis. T</p><p>his is a supplementary document providing additional information for identifying, estimating and communicating uncertainty in analysis to support decisions and decision-makers.</p>",
+        "body": "<p>This document sits alongside the Aqua Book guidance on quality analysis.&nbsp;</p><p>This is a supplementary document providing additional information for identifying, estimating and communicating uncertainty in analysis to support decisions and decision-makers.</p><p>There are practical examples such as the Bank of England inflation forecast</p><p>&nbsp;</p>",
         "_graphic": {
           "src": "course/en/assets/6c961bf6f686425ab9d1f059d7eaf61762a62f43.png",
-          "alt": "",
+          "alt": "image of uncertainty fan chart for prices",
           "attribution": ""
         },
-        "strapline": "ef"
+        "strapline": "uncertainty toolkit"
       },
       {
         "title": "",
@@ -1853,10 +1853,10 @@
         "body": "<blockquote><p>\"The case studies were interesting examples. &nbsp;Although the content is all fairly basic stuff that can be found from any number of resources, pulling it together in one place might get more analysts thinking about uncertainty.\"</p></blockquote>",
         "_graphic": {
           "src": "course/en/assets/81ce3c69e3df8cd9c11b8d56592b34331ef6d2bc.png",
-          "alt": "",
+          "alt": "image of forecast error increasing over time",
           "attribution": ""
         },
-        "strapline": "dvf"
+        "strapline": "uncertainty toolkit"
       }
     ]
   }
