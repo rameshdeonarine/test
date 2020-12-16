@@ -1,12 +1,12 @@
 {
-  "title": "Introduction to modelling best practice for analysts",
-  "displayTitle": "Introduction to modelling best practice for analysts",
+  "title": "Introduction to modelling best practice",
+  "displayTitle": "Introduction to modelling best practice",
   "body": "<p>this course has 3 aims: explain, demonstrate and practice good QA practice for both&nbsp;policy and analysts. It compliments your organisations guidance&nbsp;</p>",
   "subtitle": "for analysts and policymakers involved in modelling",
   "description": "",
   "instruction": "",
   "_htmlClasses": "mainPage",
-  "_latestTrackingId": 27,
+  "_latestTrackingId": 29,
   "_buttons": {
     "_submit": {
       "buttonText": "Submit",
